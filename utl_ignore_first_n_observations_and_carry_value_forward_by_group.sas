@@ -21,7 +21,7 @@ INPUT
                                   |
      2001Q1      1001       11    |   2001Q1      1001       .     1st group of 4 quarters
      2001Q2      1001       11    |   2001Q2      1001       .     Set group to 1
-     2001Q3      1001       11    |   2001Q3      1001       .     Since 1 is onn save meancost
+     2001Q3      1001       11    |   2001Q3      1001       .     Since 1 is odd save meancost
      2001Q4      1001       11    |   2001Q4      1001       .     and apply to next group
      2002Q1      1001       12    |   2002Q1      1001       11
      2002Q2      1001       12    |   2002Q2      1001       11    group=2 which is even
